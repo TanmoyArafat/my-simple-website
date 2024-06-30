@@ -1,0 +1,7 @@
+div {
+    background-color: bisque;
+    border: 10px solid;
+    padding: 10px;
+    border-radius: 10px 10px 20px 40px;
+    box-shadow: 10px 10px 20px burlywood;
+}
